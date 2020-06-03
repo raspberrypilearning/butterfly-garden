@@ -1,7 +1,6 @@
 ## Round and round
 
 In computing, a clear set of instructions is called an __algorithm__. The next butterfly is going to use a different algorithm to fly in a circle. 
-
 --- task ---
 Duplicate Butterfly 2 to create a new sprite. If you created Butterfly 3 in the challenge then this will be Butterfly 4.
 
@@ -19,7 +18,7 @@ Change the colour of the new butterfly so you can easily identify it.
 --- task ---
 Add a `go to x: () y: ()`{:class="block3motion"} after the `when green flag clicked`{:class="block3motion"} block. The numbers in the block will be the current coordinates of the butterfly on the stage. 
 
-Change the x and y coordinates to 0 so your code looks like this:
+The centre of the stage is at coordinates `x: (0) y: (0)`. Change the numbers in the `go to x: () y: ()`{:class="block3motion"} block so your butterfly starts its flight in the centre of the stage:
 
 ```blocks3
 when flag clicked
@@ -34,6 +33,7 @@ end
 
 --- task ---
 Change the direction to 90 so the butterfly starts off pointing to the right:
+
 ```blocks3
 when flag clicked
 go to x: (0) y: (0)
@@ -57,14 +57,14 @@ move (2) steps
 +turn right (2) degrees
 if on edge bounce
 end
-```blocks3
+```
 
 --- /task ---
 
 --- task ---
 Click the green flag and watch your butterfly fly in a circle. 
 
-![Butterfly 4 sprite](images/butterfly-circle.png)
+![Butterfly 4 sprite circular path](images/butterfly-circle.png)
 
 --- /task ---
 
