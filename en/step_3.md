@@ -35,7 +35,7 @@ Now you're going to change the colour of Butterfly 2 so you can easily tell them
 Click on 'Butterfly 2' under the stage.
 
 ![Select butterfly 2](images/butterfly-2-under-stage.png)
---- /task --
+--- /task ---
 
 --- task ---
 Click on the Costumes tab. 
