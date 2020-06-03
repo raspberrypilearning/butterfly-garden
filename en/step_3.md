@@ -45,18 +45,23 @@ Click on the Costumes tab.
 --- /task ---
 
 --- task ---
-Click on the Fill colour and change the sliders to get a colour you like. 
+Click on the Fill (paint bucket) tool.  
 
-![Butterfly 2 Costumes tab](images/butterfly-fill-colour.png)
-
-Click away from the Fill colour to close the colour chooser.
+![Butterfly 2 Costumes tab](images/butterfly-fill-tool.png)
 
 --- /task ---
 
 --- task ---
-Click on the Fill tool and then click on the green parts of the butterfly wing to fill them with your new colour. 
+Click on the Fill colour and change the sliders to get a colour you like. 
 
-![Butterfly 2 Costumes tab](images/butterfly-fill-tool.png)
+![Butterfly 2 Costumes tab](images/butterfly-fill-colour.png)
+
+--- /task ---
+
+--- task ---
+Click on the green parts of the butterfly wing to fill them with your new colour. 
+
+![Butterfly 2 Costumes tab](images/butterfly-fill-wings.png)
 
 --- /task ---
 

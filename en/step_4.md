@@ -1,6 +1,8 @@
 ## Challenge: Add another butterfly
 
-Duplicate Butterfly 2 to create Butterfly 3. Use what you have learned to give this butterfly a different colour and make it fly in a different pattern to the others. 
+Duplicate Butterfly 2 to create Butterfly 3. Use what you have learned to make this butterfly different to the others. 
+
+Change the colour of the butterfly's wings by editting its costume with the Fill tool.
 
 Make your butterfly fly in a different direction. What happens if you choose a negative number?
 
