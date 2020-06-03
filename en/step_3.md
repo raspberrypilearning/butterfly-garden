@@ -31,18 +31,18 @@ Click the red stop button above the stage to stop the butterflies moving.
 
 Now you're going to change the colour of Butterfly 2 so you can easily tell them apart. 
 
---- task --
+--- task ---
 Click on 'Butterfly 2' under the stage.
 
 ![Select butterfly 2](images/butterfly-2-under-stage.png)
 --- /task --
 
---- task --
+--- task ---
 Click on the Costumes tab. 
 
 ![Butterfly 2 Costumes tab](images/butterfly-costumes-2.png)
 
---- /task --
+--- /task ---
 
 --- task ---
 Click on the Fill colour and change the sliders to get a colour you like. 
@@ -69,7 +69,7 @@ Butterfly 2 also has its own code. Make sure Butterfly 2 is still selected below
 
 --- /task ---
 
-Butterfly 2 has the same code as Butterfly 1. 
+Butterfly 2 has the same code as Butterfly 1. You are going to change it so Butterfly 2 flies in a different pattern.
 
 --- task ---
 Add a `point in direction`{:class="block3motion"} block after `when flag clicked`{:class="block3events"}. A gap will open up and the block will snap into place.
