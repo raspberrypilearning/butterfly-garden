@@ -10,27 +10,27 @@ Click 'Choose a Backdrop' and then select the 'Blue Sky' backdrop.
 --- task ---
 Delete the Cat sprite. 
 
-![Choose the backdrop](images/butterfly-delete-cat.png)
+![Delete the cat](images/butterfly-delete-cat.png)
 
 --- /task ---
 
 --- task ---
 Click 'Choose a Sprite' and add the 'Butterfly 1' sprite to your project.
 
-![Choose the backdrop](images/butterfly-add-butterfly.png)
+![Add the butterfly 1 sprite](images/butterfly-add-butterfly.png)
 
 --- /task ---
 
 --- task ---
 The butterfly is a bit big. Change its size to 50% (half as big).
 
-![Choose the backdrop](images/butterfly-size-50.png)
+![Set butterfly size to 50](images/butterfly-size-50.png)
 --- /task ---
 
 --- task ---
 Click on the Code tab and then 'Motion' to see the motion blocks. These blocks make sprites move around the stage. 
 
-![Choose the backdrop](images/butterfly-motion)
+![Open the Motion section](images/butterfly-motion)
 --- /task ---
 
 --- task ---
@@ -39,7 +39,7 @@ Click on the `move (10) steps`{:class="block3motion"} block a few times and watc
 
 Now you're going to make the butterfly move when your project is started by clicking the green flag above the stage. 
 
-![Choose the backdrop](images/butterfly-green-flag)
+![Green flag above the stage](images/butterfly-green-flag)
 
 --- task ---
 Drag a `when flag clicked`{:class="block3events"} block from `Events` to the stage. 
@@ -83,7 +83,7 @@ Click the green flag to start your project.
 
 Your butterfly should fly to the right of the stage and then get stuck. 
 
-![Butterfly right](images/butterfly-right.png)
+![Butterfly at right of stage](images/butterfly-right.png)
 
 --- /task ---
 
@@ -105,13 +105,13 @@ Click the green flag to restart your project and the butterfly should now fly ac
 
 Did you spot a problem? The butterfly goes upside down when it flies to the left. This is because sprites point in the direction they are moving. 
 
-![Butterfly right](images/butterfly-upside-down.png)
+![Butterfly upside down when flying left](images/butterfly-upside-down.png)
 --- /task ---
 
 --- task ---
 You can fix this by clicking on the `set rotation style [left-right]`{:class="block3motion"} block. 
 
-![Butterfly left-right](images/butterfly-left-right.png)
+![Set butterfly left-right rotation style](images/butterfly-left-right.png)
 
 --- /task ---
 
