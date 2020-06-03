@@ -85,7 +85,7 @@ end
 
 --- /task ---
 
-The number 90 in the `point in direction`{:class="block3motion"} means point to the right which is why the butterfly flies to the right to start with. 0 means point up towards the top of the stage. You're going to make Butterfly 2 fly at a 45 degree angle. 
+The number 90 in `point in direction`{:class="block3motion"} means point to the right which is why the butterfly flies to the right to start with. 0 means point up towards the top of the stage. You're going to make Butterfly 2 fly at a 45 degree angle. 
 
 --- task ---
 Click on the number `(90)` in the `point in direction`{:class="block3motion"} block and change the number to 45. You can do this by moving the arrow that appears, or just by typing `45`.
