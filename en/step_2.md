@@ -35,9 +35,11 @@ Click on the Code tab and then 'Motion' to see the motion blocks. These blocks m
 
 --- task ---
 Click on the `move (10) steps`{:class="block3motion"} block a few times and watch your butterfly move across the stage. 
+--- /task ---
 
 Now you're going to make the butterfly move when your project is started by clicking the green flag above the stage. 
---- /task ---
+
+![Choose the backdrop](images/butterfly-green-flag)
 
 --- task ---
 Drag a `when flag clicked`{:class="block3events"} block from `Events` to the stage. 
