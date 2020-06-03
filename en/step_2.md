@@ -21,18 +21,18 @@ You're going to add a butterfly that flies left and right across the stage.
 
 ![Choose the backdrop](images/butterfly-motion)
 
-+ Click on the `move (10) steps` block a few times and watch your butterfly move across the stage. 
++ Click on the `move (10) steps`{:class="block3motion"} block a few times and watch your butterfly move across the stage. 
 
 Now you're going to make the butterfly move when your project is started by clicking the green flag above the stage. 
 
-+ Drag a `when flag clicked` block from `Events` to the stage. 
++ Drag a `when flag clicked`{:class="block3events"} block from `Events` to the stage. 
 
 ```blocks3
 when flag clicked
 ```
-The code under the `when flag clicked` block will run when you click the green flag. 
+The code under the `when flag clicked`{:class="block3events"} block will run when you click the green flag. 
 
-+ Add a `forever` block from `Control` and snap it in place under the `when flag clicked` block.
++ Add a `forever`{:class="block3events"} block from `Control` and snap it in place under the `when flag clicked` block.
 
 ```blocks3
 when flag clicked
@@ -40,11 +40,11 @@ when flag clicked
 end
 ```
 
-Code blocks inside a `forever` block will run over and over again. 
+Code blocks inside a `forever`{:class="block3control"} block will run over and over again. 
 
 Tip: Notice the difference in colour between `Events` and `Control` blocks. 
 
-+ Now add a `move (10) steps` block inside the forever
++ Now add a `move (10) steps`{:class="block3motion"} block inside the `forever`{:class="block3events"} block.
 
 ```blocks3
 when flag clicked
@@ -59,7 +59,7 @@ Your butterfly should fly to the right of the stage and then get stuck.
 
 ![Butterfly right](images/butterfly-right.png)
 
-+ To fix this, add an `if on edge bounce` block. This block makes a sprite flip its direction if it bumps into the edge of the screen. 
++ To fix this, add an `if on edge bounce`{:class="block3motion"} block. This block makes a sprite flip its direction if it bumps into the edge of the screen. 
 
 ```blocks3
 when flag clicked
@@ -74,7 +74,7 @@ Did you spot a problem? The butterfly goes upside down when it flies to the left
 
 ![Butterfly right](images/butterfly-upside-down.png)
 
-+ You can fix this by clicking on the `set rotation style [left-right]` block. 
++ You can fix this by clicking on the `set rotation style [left-right]`{:class="block3motion"} block. 
 
 ![Butterfly left-right](images/butterfly-left-right.png)
 
@@ -82,7 +82,7 @@ Did you spot a problem? The butterfly goes upside down when it flies to the left
 
 The butterfly garden is supposed to be relaxing but the butterfly is flying very fast. 
 
-+ Slow the butterfly down by changing the number of steps that it moves at a time from 10 to 2:
++ Slow the butterfly down by changing the number of steps that it moves at a time from `10` to `2`:
 
 ```blocks3
 when flag clicked
