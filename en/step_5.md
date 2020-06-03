@@ -1,6 +1,7 @@
 ## Round and round
 
 In computing, a clear set of instructions is called an __algorithm__. The next butterfly is going to use a different algorithm to fly in a circle. 
+
 --- task ---
 Duplicate Butterfly 2 to create a new sprite. If you created Butterfly 3 in the challenge then this will be Butterfly 4.
 
@@ -67,6 +68,5 @@ Click the green flag and watch your butterfly fly in a circle.
 ![Butterfly 4 sprite circular path](images/butterfly-circle.png)
 
 --- /task ---
-
 
 

@@ -6,7 +6,7 @@ Change the colour of the butterfly's wings by editting its costume with the Fill
 
 Make your butterfly fly in a different direction. What happens if you choose a negative number?
 
-![Butterfly 3]sprite(images/butterfly-3-example.png)
+![Butterfly 3](images/butterfly-3-example.png)
 
 __Tip:__ Make sure you select the sprite you want to change under the stage before clicking on 'Costumes' or 'Code'. Each sprite has its own costumes and code. 
 
