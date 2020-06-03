@@ -62,7 +62,7 @@ end
 
 Code blocks inside a `forever`{:class="block3control"} block will run over and over again. 
 
-__Tip: Notice the difference in colour between `Events` and `Control` blocks.__ 
+__Tip:__ Notice the difference in colour between `Events` and `Control` blocks. 
 
 --- /task ---
 
