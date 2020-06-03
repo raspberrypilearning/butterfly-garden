@@ -28,7 +28,7 @@ The butterfly is a bit big. Change its size to 50% (half as big).
 --- /task ---
 
 --- task ---
-Click on the Code tab and then 'Motion' to see the motion blocks. These blocks make sprites move around the stage. 
+Click on the Code tab and then `Motion`{:class="block3motion"} to see the motion blocks. These blocks make sprites move around the stage. 
 
 ![Open the Motion section](images/butterfly-motion)
 --- /task ---
@@ -42,7 +42,7 @@ Now you're going to make the butterfly move when your project is started by clic
 ![Green flag above the stage](images/butterfly-green-flag)
 
 --- task ---
-Drag a `when flag clicked`{:class="block3events"} block from `Events` to the stage. 
+Drag a `when flag clicked`{:class="block3events"} block from `Events`{:class="block3events"} to the stage. 
 
 ```blocks3
 when flag clicked
@@ -52,7 +52,7 @@ The code under the `when flag clicked`{:class="block3events"} block will run whe
 --- /task ---
 
 --- task ---
-+ Add a `forever`{:class="block3events"} block from `Control` and snap it in place under the `when flag clicked` block.
++ Add a `forever`{:class="block3events"} block from `Control`{:class="block3control"} and snap it in place under the `when flag clicked` block.
 
 ```blocks3
 when flag clicked
@@ -62,7 +62,7 @@ end
 
 Code blocks inside a `forever`{:class="block3control"} block will run over and over again. 
 
-__Tip:__ Notice the difference in colour between `Events` and `Control` blocks. 
+__Tip:__ Notice the difference in colour between `Events`{:class="block3events"} and `Control`{:class="block3control"} blocks. 
 
 --- /task ---
 
