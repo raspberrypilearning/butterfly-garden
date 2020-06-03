@@ -1,11 +1,11 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Watching nature is a brilliant way to relax but wildlife doesn’t always come along when you want it to. In this project you’ll make a Butterfly Garden where each butterfly flies in exactly the pattern you tell it to.
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+Click the green flag and sit back and relax and watch the patterns the butterflies make as they fly.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
