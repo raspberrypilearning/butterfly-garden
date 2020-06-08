@@ -142,6 +142,7 @@ Slow the butterfly down by changing the number of steps that it moves at a time 
 ```blocks3
 when flag clicked
 forever
+set rotation style [left right v]
 +move (2) steps
 if on edge bounce
 end
