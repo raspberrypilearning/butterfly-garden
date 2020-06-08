@@ -42,7 +42,7 @@ Now follow each task given below.
 --- task ---
 Clicking on the Code tab and then `Motion`{:class="block3motion"} to see the motion blocks. These blocks make sprites move around the stage. 
 
-![Open the Motion section](images/butterfly-motion)
+![Open the Motion section](images/butterfly-motion.png)
 --- /task ---
 
 --- task ---
@@ -51,7 +51,7 @@ Click on the `move (10) steps`{:class="block3motion"} block a few times and watc
 
 Now you're going to make the butterfly move when your project is started by clicking the green flag above the stage. 
 
-![Green flag above the stage](images/butterfly-green-flag)
+![Green flag above the stage](images/butterfly-green-flag.png)
 
 --- task ---
 Drag a `when flag clicked`{:class="block3events"} block from `Events`{:class="block3events"} to the stage. 
