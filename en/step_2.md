@@ -35,14 +35,14 @@ The butterfly is a bit big. Change its size to 50% (half as big).
 
 Watch this short video which shows what to do next.
 
-![screenshot](images/butterfly-move-step2.gif) 
+![screenshot](images/butterfly-move-step2.gif)
 
 Now follow each task given below.
 
 --- task ---
 Clicking on the Code tab and then `Motion`{:class="block3motion"} to see the motion blocks. These blocks make sprites move around the stage. 
 
-![Open the Motion section](images/butterfly-motion.png)
+![Open the Motion section](images/butterfly-motion.png){:width="300px"}
 --- /task ---
 
 --- task ---
