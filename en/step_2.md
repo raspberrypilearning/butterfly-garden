@@ -30,7 +30,7 @@ Click 'Choose a Sprite' and add the 'Butterfly 1' sprite to your project.
 --- task ---
 The butterfly is a bit big. Change its size to 50% (half as big).
 
-![Set butterfly size to 50](images/butterfly-size-50.png)
+![Set butterfly size to 50](images/butterfly-size-50.png){:width="300px"}
 --- /task ---
 Watch this short video which shows what to do next.
 
