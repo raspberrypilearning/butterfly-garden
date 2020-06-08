@@ -1,6 +1,12 @@
 ## Add a butterfly
 You're going to add a butterfly that flies left and right across the stage. 
 
+Watch this short video which shows what to do next.
+
+![screenshot](images/butterfly-setup-step2.gif) 
+
+Now follow each task given below.
+
 --- task ---
 Click 'Choose a Backdrop' and then select the 'Blue Sky' backdrop. 
 
