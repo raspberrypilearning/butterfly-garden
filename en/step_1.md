@@ -32,7 +32,7 @@ title: What you will need
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ [rpf.io/project-name-go](http://rpf.io/butterfly-garden-go){:target="_blank"}
 
 --- /collapse ---
 
