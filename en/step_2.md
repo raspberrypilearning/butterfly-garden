@@ -128,6 +128,15 @@ You can fix this by clicking on the `set rotation style [left-right]`{:class="bl
 
 ![Set butterfly left-right rotation style](images/butterfly-left-right.png)
 
+```blocks3
+when flag clicked
+forever
++set rotation style [left right v]
+move (2) steps
+if on edge bounce
+end
+```
+
 --- /task ---
 
 --- task ---
