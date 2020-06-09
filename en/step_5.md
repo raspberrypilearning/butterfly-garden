@@ -5,14 +5,14 @@ In computing, a clear set of instructions is called an __algorithm__. The next b
 --- task ---
 Duplicate Butterfly 2 to create a new sprite. If you created Butterfly 3 in the challenge then this will be Butterfly 4.
 
-![Butterfly 4 sprite](images/butterfly-4.png){:width="400px"}
+![Butterfly 4 sprite](images/butterfly-4.png)
 
 --- /task ---
 
 --- task ---
 Change the colour of the new butterfly so you can easily identify it. 
 
-![Butterfly 4 sprite](images/butterfly-4-colour.png){:width="400px"}
+![Butterfly 4 sprite](images/butterfly-4-colour.png)
 
 --- /task ---
 
