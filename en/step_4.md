@@ -17,7 +17,7 @@ All the butterflies are the same size. The scene will look more realistic if But
 
 --- task ---
 
-Make Butterfly 3 half the size (50%) of the other butterflies. Go to `Looks`{:class="block3looks"} and `set size to (50)%` {:class="block3looks"}
+Make Butterfly 3 half the size (50%) of the other butterflies. Go to `Looks`{:class="block3looks"} and `set size to (50)%`{:class="block3looks"}
 
 ```blocks3
 when flag clicked
@@ -30,11 +30,11 @@ end
 ```
 --- /task ---
 
-Now we need to set Butterfly 3 so it is behind the other butterflies. 
+Now we need to set Butterfly 3 so it is layered behind the other butterflies. 
 
 --- task ---
 
-Go to `Looks`{:class="block3looks"} again. Add `go to front layer (50)%` {:class="block3looks"} and select back.
+Go to `Looks`{:class="block3looks"} again. Add `go to front layer`{:class="block3looks"} and select the dropdown ##back##.
 
 ```blocks3
 when flag clicked
