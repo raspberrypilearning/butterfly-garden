@@ -38,9 +38,9 @@ The butterfly is a bit big. Change its size to 50% (half as big).
 --- /task ---
 
 --- task ---
-Now title and  save your project so far. Go to File in the menu. If you have a Scratch account, click 'Save now', if you don't have an account click 'Save to your computer'.
+Now title and save your project so far. Go to File in the menu. If you have a Scratch account, click 'Save now'. If you don't have an account click 'Save to your computer'.
 
-![Save  project](images/butterfly-save.png){:width="300px"}
+![Save  project](images/butterfly-save.png)
 --- /task ---
 
 --- no-print ---
