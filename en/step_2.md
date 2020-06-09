@@ -115,7 +115,7 @@ Your butterfly should fly to the right of the stage and then get stuck.
 
 Watch this short video. Is your butterfly getting stuck like this?
 
-![screenshot](images/butterfly-stuck.step2.gif)
+![screenshot](images/butterfly-stuck-step2.gif)
 
 --- /no-print ---
 
