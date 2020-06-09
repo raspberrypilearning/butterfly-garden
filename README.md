@@ -1,4 +1,4 @@
-# butterfly-garden
+# Butterfly garden
 
 ![butterfly-garden](banner.png)
 
