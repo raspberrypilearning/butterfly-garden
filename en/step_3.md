@@ -1,6 +1,6 @@
 ## Flying at an angle
 
-Now you're going to add another butterfly but thing time it's going to fly at an angle to create a different flight pattern. 
+Now you're going to add another butterfly but this time it's going to fly at an angle to create a different flight pattern. 
 
 The code for this butterfly is going to be similar to the code for Butterfly 1. You could add the code again but it's quicker to duplicate (copy) the sprite. 
 
