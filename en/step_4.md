@@ -30,7 +30,7 @@ end
 
 --- /task ---
 
-MNow we need to set Butterfly 3 so it is behind the other butterflies. Go to `Looks`{:class="block3looks"} again. Add `go to front layer (50)%` {:class="block3looks"}  and select back.
+Now we need to set Butterfly 3 so it is behind the other butterflies. Go to `Looks`{:class="block3looks"} again. Add `go to front layer (50)%` {:class="block3looks"}  and select back.
 
 ```blocks3
 when flag clicked
@@ -44,5 +44,7 @@ if on edge bounce
 end
 ```
 Run the program again to check it's working.
+![Butterfly 3](images/butterfly-small-step4.gif)
+
 --- task ---
 
