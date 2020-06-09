@@ -22,9 +22,9 @@ Add a `go to x: () y: ()`{:class="block3motion"} after the `when green flag clic
 The centre of the stage is at coordinates `x: (0) y: (0)`. Change the numbers in the `go to x: () y: ()`{:class="block3motion"} block so your butterfly starts its flight in the centre of the stage:
 
 ```blocks3
-set rotation style [left right v]
 when flag clicked
 +go to x: (0) y: (0)
+set rotation style [left right v]
 point in direction (45)
 forever
 move (2) steps
@@ -37,9 +37,9 @@ end
 Change the direction to 90 (degrees) so the butterfly starts off pointing to the right:
 
 ```blocks3
-set rotation style [left right v]
 when flag clicked
 go to x: (0) y: (0)
+set rotation style [left right v]
 +point in direction (90)
 forever
 move (2) steps
@@ -52,9 +52,9 @@ end
 Now add a `turn right`{:class="block3motion"} (clockwise) block and change the number of move to 2 so that the butterfly changes direction by a small amount each time it moves:
 
 ```blocks3
-set rotation style [left right v]
 when flag clicked
 go to x: (0) y: (0)
+set rotation style [left right v]
 point in direction (90)
 forever
 move (2) steps
