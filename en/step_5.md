@@ -69,6 +69,10 @@ Click the green flag and watch your butterfly fly in a circle.
 
 --- /task ---
 
+--- no-print ---
+
 ![Butterfly 4 sprite circular path](images/butterfly-roundandround.gif)
+
+--- /no-print ---
 
 
