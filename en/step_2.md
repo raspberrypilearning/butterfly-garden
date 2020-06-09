@@ -130,8 +130,8 @@ You can fix this by clicking on the `set rotation style [left-right]`{:class="bl
 
 ```blocks3
 when flag clicked
-forever
 +set rotation style [left right v]
+forever
 move (2) steps
 if on edge bounce
 end
