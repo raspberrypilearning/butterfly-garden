@@ -28,6 +28,3 @@ Repeat these steps for the other wing. You can use the colour picker to choose t
 
 --- /collapse ---
 
-![Butterfly garden example](images/butterfly-example.png)
-
-
