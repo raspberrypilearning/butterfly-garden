@@ -54,5 +54,6 @@ end
 Run the program again to check it's working.
 
 --- /task ---
+
 ![Butterfly 3](images/butterfly-small-step4.gif)
 
