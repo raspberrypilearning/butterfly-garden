@@ -17,7 +17,7 @@ Change the colour of the new butterfly so you can easily identify it.
 --- /task ---
 
 --- task ---
-Add a `go to x: () y: ()`{:class="block3motion"} after the `when green flag clicked`{:class="block3motion"} block. The numbers in the block will be the current coordinates of the butterfly on the stage. 
+Add a `go to x: () y: ()`{:class="block3motion"} after the `when green flag clicked`{:class="block3events"} block. The numbers in the block will be the current coordinates of the butterfly on the stage. 
 
 The centre of the stage is at coordinates `x: (0) y: (0)`{:class="block3motion"}. Change the numbers in the `go to x: () y: ()`{:class="block3motion"} block so your butterfly starts its flight in the centre of the stage:
 
