@@ -2,15 +2,15 @@
 
 Now it's time to get creative with your butterfly garden. 
 
-Try duplicating the butterfly that flies around in circles and changing the amount it moves and turns by. What happens?
+Try duplicating Butterfly 4 (the butterfly that flies around in circles) and changing the amount it moves and turns by. What happens?
 
 Try changing the size of some of the butterflies so that some of them appear far away. 
 
-Get creative and decorate your own butterfly costume with the paint tool. 
+Get creative and decorate your own butterfly costume with the paint tool.
 
 --- collapse ---
 ---
-title: How can I colour the circles on the butterfly wings? 
+title: How can I colour the circles on a butterflies wings? 
 ---
 
 The circles are outlines of a circle shape so you can't use the fill tool. 
