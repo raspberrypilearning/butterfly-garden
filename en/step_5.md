@@ -49,7 +49,7 @@ end
 --- /task ---
 
 --- task ---
-Now add a `turn right`{:class="block3motion"} (clockwise) block and change the number of move to 2 so that the butterfly changes direction by a small amount each time it moves:
+Now add a `turn right`{:class="block3motion"} (clockwise) block and change the number of moves to 2 so that the butterfly changes direction by a small amount each time it moves:
 
 ```blocks3
 when flag clicked
