@@ -54,7 +54,7 @@ Watch this short video which shows what to do next.
 Follow each task given below.
 
 --- task ---
-Clicking on the Code tab and then `Motion`{:class="block3motion"} to see the motion blocks. These blocks make sprites move around the stage. 
+Click on the Code tab and then `Motion`{:class="block3motion"} to see the motion blocks. These blocks make sprites move around the stage. 
 
 ![Open the Motion section](images/butterfly-motion.png){:width="300px"}
 --- /task ---
