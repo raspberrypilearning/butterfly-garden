@@ -71,6 +71,8 @@ Click the green flag and watch your butterfly fly in a circle.
 
 --- no-print ---
 
+Gif needed  here!
+
 ![Butterfly 4 sprite circular path](images/butterfly-roundandround.gif)
 
 --- /no-print ---
