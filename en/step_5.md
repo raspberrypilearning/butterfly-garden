@@ -65,7 +65,7 @@ end
 --- task ---
 Click the green flag and watch your butterfly fly in a circle. 
 
-![Butterfly 4 sprite circular path](images/butterfly-circle.png)
+![Butterfly 4 sprite circular path](images/butterfly-roundandround.gif)
 
 --- /task ---
 
