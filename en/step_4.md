@@ -3,6 +3,8 @@
 Duplicate Butterfly 2 to create Butterfly 3. Use what you have learned to make this butterfly different to the others. 
 
 --- task ---
+Make your butterfly fly in a different direction. What happens if you choose a negative number?
+
 Change the colour of the butterfly's wings by editing its costume with the Fill tool.
 
 ![Butterfly 3](images/butterfly-3-example.png)
@@ -33,7 +35,7 @@ Now we need to set Butterfly 3 so it is layered behind the other butterflies.
 
 --- task ---
 
-Go to `Looks`{:class="block3looks"} again. Add `go to front layer`{:class="block3looks"} and select the dropdown 'back':
+Go to `Looks`{:class="block3looks"} again. Add `go to front layer`{:class="block3looks"} and select the dropdown `back`{:class="block3looks"}:
 
 ```blocks3
 when flag clicked
@@ -59,5 +61,3 @@ Click the green flag to check your program. Is Butterfly 3 smaller and flying be
 --- /no-print ---
 
 --- /task ---
-Make your butterfly fly in a different direction. What happens if you choose a negative number?
-
