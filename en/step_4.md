@@ -3,9 +3,7 @@
 Duplicate Butterfly 2 to create Butterfly 3. Use what you have learned to make this butterfly different to the others. 
 
 --- task ---
-Change the colour of the butterfly's wings by editting its costume with the Fill tool.
-
-Make your butterfly fly in a different direction. What happens if you choose a negative number?
+Change the colour of the butterfly's wings by editing its costume with the Fill tool.
 
 ![Butterfly 3](images/butterfly-3-example.png)
 
@@ -23,6 +21,7 @@ Make Butterfly 3 half the size (50%) of the other butterflies. Go to `Looks`{:cl
 when flag clicked
 set rotation style [left right v]
 point in direction (-45)
++set size to (50)%
 forever
 move (10) steps
 if on edge bounce
@@ -60,4 +59,5 @@ Click the green flag to check your program. Is Butterfly 3 smaller and flying be
 --- /no-print ---
 
 --- /task ---
+Make your butterfly fly in a different direction. What happens if you choose a negative number?
 
