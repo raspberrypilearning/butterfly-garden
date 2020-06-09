@@ -51,7 +51,7 @@ end
 
 --- task ---
 
-Run the program again to Butterfly 3 is smaller and flying at the back of the the other butterflies.
+Click the green flag to check if Butterfly 3 is smaller and flying at the back of the the other butterflies.
 
 ![Butterfly 3](images/butterfly-small-step4.gif)
 
