@@ -1,7 +1,7 @@
 ## Add a butterfly
 You're going to add a butterfly that flies left and right across the stage. 
 
---- /print ---
+--- no-print ---
 
 Watch this short video which shows what to do next.
 
@@ -37,7 +37,7 @@ The butterfly is a bit big. Change its size to 50% (half as big).
 ![Set butterfly size to 50](images/butterfly-size-50.png){:width="300px"}
 --- /task ---
 
---- /print ---
+--- no-print ---
 
 Watch this short video which shows what to do next.
 
@@ -105,7 +105,7 @@ Your butterfly should fly to the right of the stage and then get stuck.
 
 ![Butterfly at right of stage](images/butterfly-right.png){:width="400px"}
 
---- /print ---
+--- no-print ---
 
 Watch this short video. Is your butterfly getting stuck like this?
 
