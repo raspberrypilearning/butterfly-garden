@@ -7,13 +7,13 @@ The code for this butterfly is going to be similar to the code for Butterfly 1. 
 --- task ---
 Right click on 'Butterfly 1' below the stage (or tap and hold on a tablet) and select 'duplicate' from the menu that appears:
 
-![Open the right-click menu for Butterfly 1](images/butterfly-duplicate.png)
+![Open the right-click menu for Butterfly 1](images/butterfly-duplicate.png){:width="400px"}
 
 --- /task ---
 
 This will create a copy of the 'Butterfly 1' sprite called 'Butterfly 2'. 
 
-![Butterfly 2 sprite](images/butterfly-butterfly-2.png)
+![Butterfly 2 sprite](images/butterfly-butterfly-2.png){:width="400px"}
 
 The costumes, code and settings such as the size and rotation style are copied to the new sprite. 
 
@@ -25,7 +25,7 @@ Click the green flag to see both butterflies move.
 --- task ---
 Click the red stop button above the stage to stop the butterflies moving. 
 
-![Butterfly 2 sprite](images/butterfly-stop.png)
+![Butterfly 2 sprite](images/butterfly-stop.png){:width="400px"}
 
 --- /task ---
 
