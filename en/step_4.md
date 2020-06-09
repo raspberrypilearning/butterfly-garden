@@ -5,11 +5,15 @@ Duplicate Butterfly 2 to create Butterfly 3. Use what you have learned to make t
 --- task ---
 Make your butterfly fly in a different direction. What happens if you choose a negative number?
 
-Change the colour of the butterfly's wings by editing its costume with the Fill tool.
-
 ![Butterfly 3](images/butterfly-3-example.png)
 
 __Tip:__ Make sure you select the sprite you want to change under the stage before clicking on 'Costumes' or 'Code'. Each sprite has its own costumes and code. 
+
+--- /task ---
+
+--- task ---
+
+Change the colour of the butterfly's wings by editing its costume with the Fill tool.
 
 --- /task ---
 
