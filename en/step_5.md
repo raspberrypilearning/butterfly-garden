@@ -3,7 +3,7 @@
 In computing, a clear set of instructions is called an __algorithm__. The next butterfly is going to use a different algorithm to fly in a circle. 
 
 --- task ---
-Duplicate Butterfly 2 to create a new sprite. If you created Butterfly 3 in the challenge then this will be Butterfly 4.
+Duplicate Butterfly 2 to create a new sprite. This will be Butterfly 4.
 
 ![Butterfly 4 sprite](images/butterfly-4.png)
 
@@ -33,7 +33,7 @@ end
 --- /task ---
 
 --- task ---
-Change the direction to 90 so the butterfly starts off pointing to the right:
+Change the direction to 90 (degrees) so the butterfly starts off pointing to the right:
 
 ```blocks3
 when flag clicked
@@ -47,7 +47,7 @@ end
 --- /task ---
 
 --- task ---
-Now add a `turn right` (clockwise) block and change the number to 2 so that the butterfly changes direction by a small amount each time it moves:
+Now add a `turn right` (clockwise) block and change the number of move to 2 so that the butterfly changes direction by a small amount each time it moves:
 
 ```blocks3
 when flag clicked
