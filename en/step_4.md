@@ -34,7 +34,7 @@ Now we need to set Butterfly 3 so it is layered behind the other butterflies.
 
 --- task ---
 
-Go to `Looks`{:class="block3looks"} again. Add `go to front layer`{:class="block3looks"} and select the dropdown ##back##.
+Go to `Looks`{:class="block3looks"} again. Add `go to front layer`{:class="block3looks"} and select the dropdown 'back'.
 
 ```blocks3
 when flag clicked
