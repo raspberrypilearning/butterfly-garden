@@ -15,6 +15,8 @@ __Tip:__ Make sure you select the sprite you want to change under the stage befo
 
 All the butterflies are the same size. The scene will look more realistic if Butterfly 3 is smaller and set behind the other butterflies.
 
+--- task ---
+
 Make Butterfly 3 half the size (50%) of the other butterflies. Go to `Looks`{:class="block3looks"} and set size to (50)% {:class="block3looks"}
 
 ```blocks3
@@ -26,11 +28,13 @@ move (10) steps
 if on edge bounce
 end
 ```
---- task ---
-
 --- /task ---
 
-Now we need to set Butterfly 3 so it is behind the other butterflies. Go to `Looks`{:class="block3looks"} again. Add `go to front layer (50)%` {:class="block3looks"}  and select back.
+Now we need to set Butterfly 3 so it is behind the other butterflies. 
+
+--- task ---
+
+Go to `Looks`{:class="block3looks"} again. Add `go to front layer (50)%` {:class="block3looks"}  and select back.
 
 ```blocks3
 when flag clicked
@@ -43,8 +47,12 @@ move (10) steps
 if on edge bounce
 end
 ```
-Run the program again to check it's working.
-![Butterfly 3](images/butterfly-small-step4.gif)
+--- /task ---
 
 --- task ---
+
+Run the program again to check it's working.
+
+--- /task ---
+![Butterfly 3](images/butterfly-small-step4.gif)
 
