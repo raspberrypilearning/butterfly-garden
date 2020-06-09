@@ -51,7 +51,7 @@ end
 
 --- task ---
 
-Click the green flag to check if Butterfly 3 is smaller and flying at the back of the the other butterflies.
+Click the green flag to check your program. Is Butterfly 3 smaller and flying behind the other butterflies?
 
 --- no-print ---
 
