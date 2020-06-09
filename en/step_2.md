@@ -1,11 +1,15 @@
 ## Add a butterfly
 You're going to add a butterfly that flies left and right across the stage. 
 
+--- /print ---
+
 Watch this short video which shows what to do next.
 
 ![screenshot](images/butterfly-setup-step2.gif) 
 
-Now follow each task given below.
+--- /no-print ---
+
+Follow each task given below.
 
 --- task ---
 Click 'Choose a Backdrop' and then select the 'Blue Sky' backdrop. 
@@ -33,11 +37,15 @@ The butterfly is a bit big. Change its size to 50% (half as big).
 ![Set butterfly size to 50](images/butterfly-size-50.png){:width="300px"}
 --- /task ---
 
+--- /print ---
+
 Watch this short video which shows what to do next.
 
 ![screenshot](images/butterfly-move-step2.gif)
 
-Now follow each task given below.
+--- /no-print ---
+
+Follow each task given below.
 
 --- task ---
 Clicking on the Code tab and then `Motion`{:class="block3motion"} to see the motion blocks. These blocks make sprites move around the stage. 
@@ -97,9 +105,13 @@ Your butterfly should fly to the right of the stage and then get stuck.
 
 ![Butterfly at right of stage](images/butterfly-right.png){:width="400px"}
 
+--- /print ---
+
 Watch this short video. Is your butterfly getting stuck like this?
 
 ![screenshot](images/butterfly-stuck.step2.gif)
+
+--- /no-print ---
 
 --- /task ---
 
