@@ -81,6 +81,7 @@ Add a `point in direction`{:class="block3motion"} block after `when flag clicked
 
 ```blocks3
 when flag clicked
+set rotation style [left right v]
 +point in direction (90)
 forever
 move (10) steps
@@ -104,6 +105,7 @@ Check that your code looks like this:
 
 ```blocks3
 when flag clicked
+set rotation style [left right v]
 +point in direction (45)
 forever
 move (10) steps
