@@ -20,8 +20,7 @@ Make Butterfly 3 half the size (50%) of the other butterflies. Go to `Looks`{:cl
 ```blocks3
 when flag clicked
 set rotation style [left right v]
-point in direction (90)
-+set size to (50)%
+point in direction (-45)
 forever
 move (10) steps
 if on edge bounce
@@ -31,19 +30,19 @@ end
 
 --- /task ---
 
-All the butterflies are the same size. The scene will look more realistic if Butterfly 3 is smaller and set behind the other butterflies.
-
-Make Butterfly 3 half the size (50%) of the other butterflies. Go to `Looks`{:class="block3looks"} and set size to (50)% {:class="block3looks"}
+MNow we need to set Butterfly 3 so it is behind the other butterflies. Go to `Looks`{:class="block3looks"} again. Add `go to front layer (50)%` {:class="block3looks"}  and select back.
 
 ```blocks3
 when flag clicked
 set rotation style [left right v]
-point in direction (90)
-+set size to (50)%
+point in direction (-45)
+set size to (50)%
++go to [back v] layer
 forever
 move (10) steps
 if on edge bounce
 end
 ```
+Run the program again to check it's working.
 --- task ---
 
