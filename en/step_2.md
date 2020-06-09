@@ -137,7 +137,7 @@ end
 Click the green flag to restart your project and the butterfly should now fly across the stage, bouncing when it reaches the left and right edges. 
 --- /task ---
 
-Did you spot a problem? The butterfly goes upside down when it flies to the left. This is because sprites point in the direction they are moving. 
+Did you spot an issue? The butterfly goes upside down when it flies to the left. This is because sprites point in the direction they are moving. 
 
 ![Butterfly upside down when flying left](images/butterfly-upside-down.png){:width="400px"}
 
