@@ -1,6 +1,16 @@
 ## Add a small butterfly
+Now you're going to add a small butterfly that flies at a different angle and flies 'behind' the other butterflies.
 
-Duplicate Butterfly 2 to create Butterfly 3. Use what you have learned to make this butterfly different to the others. 
+--- task ---
+Duplicate Butterfly 2 to create Butterfly 3. 
+
+--- /task ---
+
+--- task ---
+
+Change the colour of this butterfly so that it looks different to the others. 
+
+--- /task ---
 
 --- task ---
 Make your butterfly fly in a different direction. What happens if you choose a negative number?
