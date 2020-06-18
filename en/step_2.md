@@ -24,7 +24,7 @@ Watch this short video which shows what to do next.
 Follow each task given below.
 
 --- task ---
-Click 'Choose a Backdrop' and then select the 'Blue Sky' backdrop. 
+Click **Choose a Backdrop** and then select the **Blue Sky** backdrop. 
 
 ![Choose the backdrop](images/butterfly-backdrop.png)
 --- /task ---
@@ -37,14 +37,14 @@ Delete the Cat sprite.
 --- /task ---
 
 --- task ---
-Click 'Choose a Sprite' and add the 'Butterfly 1' sprite to your project.
+Click **Choose a Sprite** and add the **Butterfly 1** sprite to your project.
 
 ![Add the butterfly 1 sprite](images/butterfly-add-butterfly.png)
 
 --- /task ---
 
 --- task ---
-Now title and save your project so far. Go to File in the menu. If you have a Scratch account, click 'Save now'. If you don't have an account click 'Save to your computer'.
+Now title and save your project so far. Go to **File** in the menu. If you have a Scratch account, click **Save now**. If you don't have an account click **Save to your computer**.
 
 ![Save  project](images/butterfly-save.png)
 --- /task ---
@@ -60,7 +60,7 @@ Watch this short video which shows what to do next.
 Follow each task given below.
 
 --- task ---
-Click on the Code tab and then `Motion`{:class="block3motion"} to see the motion blocks. These blocks make sprites move around the stage. 
+Click on the code tab and then select `Motion`{:class="block3motion"} to see the motion blocks available. These blocks make sprites move around the stage. 
 
 ![Open the Motion section](images/butterfly-motion.png){:width="300px"}
 --- /task ---
