@@ -74,7 +74,7 @@ Now you're going to make the butterfly move when your project is started by clic
 ![Green flag above the stage](images/butterfly-green-flag.png){:width="400px"}
 
 --- task ---
-Drag a `when flag clicked`{:class="block3events"} block from `Events`{:class="block3events"} to the stage. 
+From `Events`{:class="block3events"}, select a `when flag clicked`{:class="block3events"} block and drag it in to the code area. 
 
 ```blocks3
 when flag clicked
@@ -84,7 +84,7 @@ The code under the `when flag clicked`{:class="block3events"} block will run whe
 --- /task ---
 
 --- task ---
-+ Add a `forever`{:class="block3control"} block from `Control`{:class="block3control"} and snap it in place under the `when flag clicked`{:class="block3events"} block.
+Fom `Control`{:class="block3control"}, add a `forever`{:class="block3control"} block and snap it in place under the `when flag clicked`{:class="block3events"} block.
 
 ```blocks3
 when flag clicked
@@ -94,7 +94,7 @@ end
 
 Code blocks inside a `forever`{:class="block3control"} block will run over and over again. 
 
-__Tip:__ Notice the difference in colour between `Events`{:class="block3events"} and `Control`{:class="block3control"} blocks. 
+**Tip:** Notice the subtle colour difference between `Events`{:class="block3events"} (yellow) and `Control`{:class="block3control"} (orange) blocks.
 
 --- /task ---
 
@@ -113,7 +113,7 @@ end
 --- task ---
 Click the green flag to start your project. 
 
-Your butterfly should fly to the right of the stage and then get stuck.
+Your butterfly should fly to the right of the Stage and then get stuck.
 
 ![Butterfly at right of stage](images/butterfly-right.png){:width="400px"}
 
@@ -128,7 +128,7 @@ Watch this short video. Is your butterfly getting stuck like this?
 --- /task ---
 
 --- task ---
-To fix this, add an `if on edge bounce`{:class="block3motion"} block. This block makes a sprite flip its direction if it bumps into the edge of the screen. 
+To fix the stuck butterfly, add an `if on edge bounce`{:class="block3motion"} block. This block makes a sprite flip its direction if it bumps into the edge of the screen. 
 
 ```blocks3
 when flag clicked
@@ -186,7 +186,7 @@ end
 Click the green flag and watch your butterfly move. 
 --- /task ---
 
-
+--- save ---
 
 
 
