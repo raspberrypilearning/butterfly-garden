@@ -22,7 +22,7 @@ title: What you will need
 ---
 ### Hardware
 
-+ A Computer
++ A computer capable of running Scratch
 
 ### Software
 
@@ -39,8 +39,8 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Costumes
-+ Repetition
++ How to use costumes
++ How to use the `repetition`{:class="block3control"} block
 
 --- /collapse ---
 
@@ -49,8 +49,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/butterfly-garden/print){:target="_blank"}.
+You can find the completed project [here](http://rpf.io/butterfly-garden-get).
 
-[Here is a link to the resources for this project](http://rpf.io/butterfly-garden-get).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/butterfly-garden/print){:target="_blank"}.
 
 --- /collapse ---
