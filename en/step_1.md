@@ -45,7 +45,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can find the completed project [here](http://rpf.io/butterfly-garden-get).
+You can find the completed project [here](http://rpf.io/butterfly-garden-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/butterfly-garden/print){:target="_blank"}.
 
