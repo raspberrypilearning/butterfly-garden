@@ -28,10 +28,6 @@ title: What you will need
 
 + Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff)
 
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/butterfly-garden-go){:target="_blank"}
-
 --- /collapse ---
 
 --- collapse ---
