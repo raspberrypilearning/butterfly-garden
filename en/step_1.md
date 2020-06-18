@@ -40,7 +40,7 @@ title: What you will learn
 ---
 
 + How to use costumes
-+ How to use the `repetition`{:class="block3control"} block
++ How to use the `repeat`{:class="block3control"} block
 
 --- /collapse ---
 
