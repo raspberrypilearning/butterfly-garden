@@ -36,7 +36,7 @@ title: What you will learn
 ---
 
 + How to use costumes
-+ How to use the `repeat`{:class="block3control"} block
++ How to use the `forever`{:class="block3control"} block
 
 --- /collapse ---
 
