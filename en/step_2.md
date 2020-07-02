@@ -99,7 +99,7 @@ Code blocks inside a `forever`{:class="block3control"} block will run over and o
 --- /task ---
 
 --- task ---
-Now add a `move (10) steps`{:class="block3motion"} block inside the `forever`{:class="block3events"} block.
+Now add a `move` `10` `steps`{:class="block3motion"} block inside the `forever`{:class="block3events"} block.
 
 ```blocks3
 when flag clicked
