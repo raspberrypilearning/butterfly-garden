@@ -84,7 +84,7 @@ The code under the `when flag clicked`{:class="block3events"} block will run whe
 --- /task ---
 
 --- task ---
-Fom `Control`{:class="block3control"}, add a `forever`{:class="block3control"} block and snap it in place under the `when flag clicked`{:class="block3events"} block.
+From `Control`{:class="block3control"}, add a `forever`{:class="block3control"} block and snap it in place under the `when flag clicked`{:class="block3events"} block.
 
 ```blocks3
 when flag clicked
