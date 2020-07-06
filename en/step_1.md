@@ -1,6 +1,6 @@
 ## Introduction
 
-Watching nature is a brilliant way to relax but wildlife doesn’t always come along when you want it to. In this project you’ll make a Butterfly Garden where each butterfly flies in exactly the pattern you tell it to.
+Watching nature is a brilliant way to relax but wildlife doesn’t always come along when you want it to. In this project you’ll make a Butterfly garden where each butterfly flies in exactly the pattern you tell it to.
 
 ### What you will make
 
