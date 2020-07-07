@@ -23,7 +23,7 @@ Click the green flag to see both butterflies move.
 --- /task ---
 
 --- task ---
-Click the red stop button above the stage to stop the butterflies moving. 
+Click the red stop button above the Stage to stop the butterflies moving. 
 
 ![Butterfly 2 sprite](images/butterfly-stop.png){:width="400px"}
 
@@ -32,7 +32,7 @@ Click the red stop button above the stage to stop the butterflies moving.
 Now you're going to change the colour of Butterfly 2 so you can easily tell them apart. 
 
 --- task ---
-Click on 'Butterfly 2' under the stage.
+Click on 'Butterfly 2' under the Stage.
 
 ![Select butterfly 2](images/butterfly-2-under-stage.png)
 --- /task ---

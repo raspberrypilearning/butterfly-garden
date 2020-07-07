@@ -28,7 +28,7 @@ Click **Choose a Backdrop** and then select the **Blue Sky** backdrop.
 --- /task ---
 
 --- task ---
-Delete the Cat sprite. 
+Delete the cat sprite. 
 
 ![Delete the cat](images/butterfly-delete-cat.png)
 
@@ -64,7 +64,7 @@ Click on the code tab and then select `Motion`{:class="block3motion"} to see the
 --- /task ---
 
 --- task ---
-Click on the `move (10) steps`{:class="block3motion"} block a few times and watch your butterfly move across the stage. 
+Click on the `move`{:class="block3motion"} `10` `steps`{:class="block3motion"} block a few times and watch your butterfly move across the stage. 
 --- /task ---
 
 Now you're going to make the butterfly move when your project is started by clicking the green flag above the stage. 
