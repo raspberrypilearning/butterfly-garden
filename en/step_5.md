@@ -3,14 +3,14 @@
 In computing, a clear set of instructions is called an **algorithm**. The next butterfly is going to use a different algorithm to make it fly in a circle. 
 
 --- task ---
-Duplicate the Butterfly 2 sprite to create a new sprite. This will automatically be called Butterfly 4.
+Duplicate the **Butterfly 2** sprite to create a new sprite. This will automatically be called **Butterfly 4**.
 
 ![Butterfly 4 sprite](images/butterfly-4.png)
 
 --- /task ---
 
 --- task ---
-Change the colour of the Butterfly 4 sprite so you can easily identify it. 
+Change the colour of the **Butterfly 4** sprite so you can easily identify it. 
 
 ![Butterfly 4 sprite](images/butterfly-4-colour.png)
 
@@ -19,7 +19,7 @@ Change the colour of the Butterfly 4 sprite so you can easily identify it.
 --- task ---
 Add a `go to x: () y: ()`{:class="block3motion"} after the `when green flag clicked`{:class="block3events"} block. The numbers in the block will be the current coordinates of the butterfly on the stage. 
 
-The centre of the stage is at coordinates **x** `0` **y** `0`. Change the numbers in the `go to x: () y: ()`{:class="block3motion"} block so your butterfly starts its flight in the centre of the stage:
+The centre of the stage is at coordinates `x:`{:class="block3motion"} `0` `y:`{:class="block3motion"} `0`. Change the numbers in the `go to x: y:`{:class="block3motion"} block so your butterfly starts its flight in the centre of the stage:
 
 ```blocks3
 when flag clicked

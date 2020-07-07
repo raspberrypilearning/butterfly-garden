@@ -2,7 +2,7 @@
 
 Now it's time to get creative with your butterfly garden. 
 
-Try duplicating the Butterfly 4 sprite (the butterfly that flies around in circles) and changing the amount it moves and turns by. What happens?
+Try duplicating the **Butterfly 4** sprite (the butterfly that flies around in circles) and changing the amount it moves and turns by. What happens?
 
 Try changing the size of some of the butterflies so that some of them appear far away. 
 
