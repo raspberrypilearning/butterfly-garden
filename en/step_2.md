@@ -5,7 +5,7 @@ You're going to add a butterfly that flies left and right across the stage.
 
 Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [scratch.mit.edu/](https://scratch.mit.edu/){:target=”_blank”}.
+**Online:** open a new online Scratch project at [scratch.mit.edu/](https://scratch.mit.edu/projects/editor/){:target=”_blank”}.
 
 **Offline:** open a new project in the offline editor. If you need to download and install the Scratch offline editor, you can find it at [scratch.mit.edu/download](https://scratch.mit.edu/download){:target=”_blank”}.
 
