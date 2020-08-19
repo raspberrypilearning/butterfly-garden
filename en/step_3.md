@@ -91,10 +91,10 @@ end
 
 --- /task ---
 
-The number `90` in the `point in direction`{:class="block3motion"} block means 'point to the right', which is why the butterfly flies to the right to start with. `0` means point up towards the top of the stage. You're going to make **Butterfly 2** fly at a 45 degree angle. 
+The number `90` in the `point in direction`{:class="block3motion"} block means 'point to the right', which is why the butterfly flies to the right to start with. `0` means 'point up towards the top of the Stage'. You will make the **Butterfly 2** sprite fly at a 45-degree angle. 
 
 --- task ---
-Click on the number `90` in the `point in direction`{:class="block3motion"} block and change the number to `45`. You can do this by moving the arrow that appears, or just by typing `45`.
+Click on the number `90` in the `point in direction`{:class="block3motion"} block and change the number to `45`. To do this, you can move the arrow that appears, or type `45`.
 
 ![Selecting 45 degree angle](images/butterfly-set-angle.png)
 
@@ -115,7 +115,7 @@ end
 --- /task ---
 
 --- task ---
-Click the green flag to see **Butterfly 2** move in its new pattern.
+Click on the green flag to see the **Butterfly 2** sprite move in its new pattern.
 
 --- /task ---
 
