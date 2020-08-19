@@ -74,10 +74,10 @@ The **Butterfly 2** sprite also has its own code. Make sure that the **Butterfly
 
 --- /task ---
 
-**Butterfly 2** has the same code as **Butterfly 1**. You are going to change it so **Butterfly 2** flies in a different pattern.
+The **Butterfly 2** sprite has the same code as the **Butterfly 1** sprite. You will change it so that the **Butterfly 2** sprite flies in a different pattern.
 
 --- task ---
-Add a `point in direction`{:class="block3motion"} block after `when flag clicked`{:class="block3events"}. A gap will open up and the block will snap into place:
+Add a `point in direction`{:class="block3motion"} block after the `when green flag clicked`{:class="block3events"} block. A gap will open up and the block will snap into place:
 
 ```blocks3
 when flag clicked
@@ -91,7 +91,7 @@ end
 
 --- /task ---
 
-The number `90` in `point in direction`{:class="block3motion"} means point to the right which is why the butterfly flies to the right to start with. `0` means point up towards the top of the stage. You're going to make **Butterfly 2** fly at a 45 degree angle. 
+The number `90` in the `point in direction`{:class="block3motion"} block means 'point to the right', which is why the butterfly flies to the right to start with. `0` means point up towards the top of the stage. You're going to make **Butterfly 2** fly at a 45 degree angle. 
 
 --- task ---
 Click on the number `90` in the `point in direction`{:class="block3motion"} block and change the number to `45`. You can do this by moving the arrow that appears, or just by typing `45`.
