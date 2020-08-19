@@ -1,14 +1,14 @@
 ## Add a small butterfly
-Now you're going to add a small butterfly that flies at a different angle and flies 'behind' the other butterflies.
+Now, you will add a small butterfly that flies at a different angle and flies 'behind' the other butterflies.
 
 --- task ---
-Duplicate **Butterfly 2** to create **Butterfly 3**. 
+Duplicate the **Butterfly 2** sprite to create a **Butterfly 3** sprite. 
 
 --- /task ---
 
 --- task ---
 
-Change the colour of **Butterfly 3** so that it looks different to the others. 
+Change the colour of the **Butterfly 3** sprite so that it looks different to the others. 
 
 --- /task ---
 
@@ -17,13 +17,13 @@ Make the **Butterfly 3** sprite fly in a different direction. What happens if yo
 
 ![Butterfly 3](images/butterfly-3-example.png)
 
-**Tip:** Each sprite has its own costumes and code. Make sure you select the correct sprite under the Stage before you click on their costumes or code area. 
+**Tip:** Each sprite has its own costumes and code. Make sure that you select the correct sprite below the Stage before you click on their costumes or Code area. 
 
 --- /task ---
 
 --- task ---
 
-Change the colour of the **Butterfly 3** sprite's wings by editing its costume with the **Fill** tool.
+Change the colour of the **Butterfly 3** sprite's wings. To do this, edit its costume with the **Fill** tool.
 
 --- /task ---
 
@@ -45,11 +45,11 @@ end
 ```
 --- /task ---
 
-Now we need to set the **Butterfly 3** sprite so it is layered behind the other butterflies. 
+Now, you need to set the **Butterfly 3** sprite so that it is layered behind the other butterflies. 
 
 --- task ---
 
-Go to `Looks`{:class="block3looks"} again. Add `go to front layer`{:class="block3looks"} and select the dropdown `back`{:class="block3looks"}:
+Go to the `Looks`{:class="block3looks"} blocks menu again. Add a `go to front layer`{:class="block3looks"} block and select `back`{:class="block3looks"} in the drop-down menu:
 
 ```blocks3
 when flag clicked
@@ -66,7 +66,7 @@ end
 
 --- task ---
 
-Click the green flag to check your program. Is **Butterfly 3** smaller than the other butterflies? Is it alsso flying behind them?
+Click on the green flag to check your program. Is **Butterfly 3** smaller than the other butterflies? Also, is it flying behind them?
 
 --- no-print ---
 
