@@ -31,7 +31,7 @@ All the butterflies are the same size. The scene will look more realistic if the
 
 --- task ---
 
-Make the **Butterfly 3** sprite half the size (50%) of the other butterflies. Go to `Looks`{:class="block3looks"} and `set size to`{:class="block3looks"} to `50``%`{:class="block3looks"}:
+Make the **Butterfly 3** sprite half the size (50%) of the other butterflies. Go to `Looks`{:class="block3looks"} and `set size to %`{:class="block3looks"} to `50``%`{:class="block3looks"}:
 
 ```blocks3
 when flag clicked
