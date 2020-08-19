@@ -1,11 +1,11 @@
 ## Flying at an angle
 
-Now you're going to add another butterfly but this time it's going to fly at an angle to create a different flight pattern. 
+Now, you will add another butterfly, but this time, it will fly at an angle to create a different flight pattern. 
 
-The code for this butterfly is going to be similar to the code for Butterfly 1. You could add the code again but it's quicker to duplicate (copy) the sprite. 
+The code for this butterfly will be similar to the code for the **Butterfly 1** sprite. You could add the code again, but it is quicker to duplicate (copy) the sprite. 
 
 --- task ---
-Right click on **Butterfly 1** below the stage (or tap and hold on a tablet) and select 'duplicate' from the menu that appears:
+Right-click on **Butterfly 1** below the Stage (or tap and hold on a tablet) and select **duplicate** in the menu that appears:
 
 ![Open the right-click menu for Butterfly 1](images/butterfly-duplicate.png){:width="400px"}
 
@@ -15,62 +15,62 @@ This will create a copy of the **Butterfly 1** sprite called **Butterfly 2**.
 
 ![Butterfly 2 sprite](images/butterfly-butterfly-2.png){:width="400px"}
 
-The costumes, code and settings such as the size and rotation style are copied to the new sprite. 
+The costumes, code, and settings, such as the size and rotation style, are copied to the new sprite. 
 
 --- task ---
-Click the green flag to see both butterflies move. 
+Click on the green flag to see both butterflies move. 
 
 --- /task ---
 
 --- task ---
-Click the red stop button above the Stage to stop the butterflies moving. 
+Click on the red stop button above the Stage to stop the butterflies moving. 
 
 ![Butterfly 2 sprite](images/butterfly-stop.png){:width="400px"}
 
 --- /task ---
 
-Now you're going to change the colour of **Butterfly 2** so you can easily tell them apart. 
+Now, you will change the colour of the **Butterfly 2** sprite so that you can tell them apart easily. 
 
 --- task ---
-Click on **Butterfly 2** under the Stage.
+Click on the **Butterfly 2** sprite below the Stage.
 
 ![Select butterfly 2](images/butterfly-2-under-stage.png)
 --- /task ---
 
 --- task ---
-Click on the Costumes tab. 
+Click on the **Costumes** tab. 
 
 ![Butterfly 2 Costumes tab](images/butterfly-costumes-2.png)
 
 --- /task ---
 
 --- task ---
-Click on the Fill (paint bucket) tool.  
+Click on the **Fill** (paint bucket) tool.  
 
 ![Butterfly 2 Costumes tab](images/butterfly-fill-tool.png)
 
 --- /task ---
 
 --- task ---
-Click on the Fill colour and change the sliders to get a colour you like. 
+Click on the **Fill** colour and change the sliders to get a colour that you like. 
 
 ![Butterfly 2 Costumes tab](images/butterfly-fill-colour.png)
 
 --- /task ---
 
 --- task ---
-Click on the green parts of the butterfly wing to fill them with your new colour. 
+Click on the green parts of the butterfly's wing to fill them with your new colour. 
 
 ![Butterfly 2 Costumes tab](images/butterfly-fill-wings.png)
 
 --- /task ---
 
-The colour of **Butterfly 2** will also change on the Stage and under the Stage. 
+The colour of the **Butterfly 2** sprite will also change on the Stage and below the Stage. 
 
 ![Butterfly 2 Costumes tab](images/butterfly-colour-changed.png)
 
 --- task ---
-**Butterfly 2** also has its own code. Make sure **Butterfly 2** is still selected below the stage and click on the Code tab. 
+The **Butterfly 2** sprite also has its own code. Make sure that the **Butterfly 2** sprite is still selected below the Stage and click on the **Code** tab. 
 
 --- /task ---
 
