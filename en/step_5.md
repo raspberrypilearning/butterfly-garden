@@ -10,16 +10,16 @@ Duplicate the **Butterfly 2** sprite to create a new sprite. This will automatic
 --- /task ---
 
 --- task ---
-Change the colour of the **Butterfly 4** sprite so you can easily identify it. 
+Change the colour of the **Butterfly 4** sprite so that you can identify it easily. 
 
 ![Butterfly 4 sprite](images/butterfly-4-colour.png)
 
 --- /task ---
 
 --- task ---
-Add a `go to x: () y: ()`{:class="block3motion"} after the `when green flag clicked`{:class="block3events"} block. The numbers in the block will be the current coordinates of the butterfly on the stage. 
+Add a `go to x: y:`{:class="block3motion"} block after the `when green flag clicked`{:class="block3events"} block. The numbers in the block will be the current coordinates of the butterfly on the Stage. 
 
-The centre of the stage is at coordinates `x:`{:class="block3motion"} `0` `y:`{:class="block3motion"} `0`. Change the numbers in the `go to x: y:`{:class="block3motion"} block so your butterfly starts its flight in the centre of the stage:
+The centre of the Stage is at coordinates `x:`{:class="block3motion"} `0` `y:`{:class="block3motion"} `0`. Change the numbers in the `go to x: y:`{:class="block3motion"} block so that your butterfly starts its flight in the centre of the Stage:
 
 ```blocks3
 when flag clicked
@@ -34,7 +34,7 @@ end
 --- /task ---
 
 --- task ---
-Change the direction to `90` (90 degrees) so the butterfly starts off pointing to the right:
+Change the direction to `90` (90 degrees) so that the butterfly starts off pointing to the right:
 
 ```blocks3
 when flag clicked
@@ -49,7 +49,7 @@ end
 --- /task ---
 
 --- task ---
-Now add a `turn right`{:class="block3motion"} (clockwise) block and change the number of moves to `2` so that the butterfly changes direction by a small amount each time it moves:
+Now, add a `turn right`{:class="block3motion"} (clockwise) block and change the number of moves to `2` so that the butterfly changes direction by a small amount each time it moves:
 
 ```blocks3
 when flag clicked
@@ -65,7 +65,7 @@ end
 --- /task ---
 
 --- task ---
-Click the green flag and watch your butterfly fly in a circle. 
+Click on the green flag and watch your butterfly fly in a circle. 
 
 --- /task ---
 
