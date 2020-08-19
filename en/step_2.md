@@ -72,7 +72,7 @@ Now, you will make the butterfly move when your project is started by clicking t
 ![Green flag above the stage](images/butterfly-green-flag.png){:width="400px"}
 
 --- task ---
-From the `Events`{:class="block3events"} blocks, select a `when green flag clicked`{:class="block3events"} block and drag it into the Code area. 
+From the `Events`{:class="block3events"} blocks menu, select a `when green flag clicked`{:class="block3events"} block and drag it into the Code area. 
 
 ```blocks3
 when flag clicked
