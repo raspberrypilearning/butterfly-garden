@@ -1,9 +1,8 @@
 ## What next?
 
-Wow! You've done really, really well. You have learned two key things:
-+ How to use the costumes blocks within your program, and how to adapt costumes using the **Paint editor**
-+ How to use the `forever`{:class="block3control"} block to make sure that your animated butterflies keep flying
-Well done!
+In this project you have:
++ Used a `forever`{:class="block3control"} loop to make your butterfly fly repeatedly in the same pattern.
++ Used the **Paint editor** to create your own unique butterfly pattern.
 
 If you are following the Look After Yourself pathway, then try out the next project, [Serene scene](https://projects.raspberrypi.org/en/projects/serene-scene).
 
