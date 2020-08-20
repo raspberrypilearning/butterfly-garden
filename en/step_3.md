@@ -40,7 +40,7 @@ Click on the **Butterfly 2** sprite below the Stage.
 --- task ---
 Click on the **Costumes** tab. 
 
-![Butterfly 2 Costumes tab](images/butterfly-costumes-2.png){:width="350px"}
+![Butterfly 2 Costumes tab](images/butterfly-costumes-2.png){:width="300px"}
 
 --- /task ---
 
