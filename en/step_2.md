@@ -19,7 +19,7 @@ Watch this short video, which shows what to do next.
 
 --- /no-print ---
 
-Follow each task given below.
+Follow the instructions for each task below.
 
 --- task ---
 Click on **Choose a Backdrop**, then select the **Blue Sky** backdrop. 
@@ -42,7 +42,7 @@ Click on **Choose a Sprite** and add the **Butterfly 1** sprite to your project.
 --- /task ---
 
 --- task ---
-Now, add your title and save your project so far. Go to **File** in the menu. If you have a Scratch account, click on **Save now**. If you do not have an account, click on **Save to your computer**.
+Now, add your project name and save your project so far. Go to **File** in the menu. If you have a Scratch account, click on **Save now**. If you do not have an account, click on **Save to your computer**.
 
 ![Save  project](images/butterfly-save.png)
 --- /task ---
@@ -55,7 +55,7 @@ Watch this short video, which shows what to do next.
 
 --- /no-print ---
 
-Follow each task given below.
+Follow the instructions for each task below.
 
 --- task ---
 Click on the **Code** tab, then select `Motion`{:class="block3motion"} to see the `Motion`{:class="block3motion"} blocks available. These blocks make sprites move around the Stage. 
@@ -67,7 +67,7 @@ Click on the **Code** tab, then select `Motion`{:class="block3motion"} to see th
 Click on the `move 10 steps`{:class="block3motion"} block a few times and watch your butterfly move across the Stage. 
 --- /task ---
 
-Now, you will make the butterfly move when your project is started by clicking the green flag above the Stage. 
+Now, you will make the butterfly move when you click on the green flag above the Stage to start your project. 
 
 ![Green flag above the stage](images/butterfly-green-flag.png){:width="400px"}
 
@@ -82,7 +82,7 @@ The code under the `when green flag clicked`{:class="block3events"} block will r
 --- /task ---
 
 --- task ---
-From the `Control`{:class="block3control"} blocks menu, add a `forever`{:class="block3control"} block and snap it in place under the `when green flag clicked`{:class="block3events"} block.
+From the `Control`{:class="block3control"} blocks menu, add a `forever`{:class="block3control"} block and connect it in place under the `when green flag clicked`{:class="block3events"} block.
 
 ```blocks3
 when flag clicked
@@ -126,19 +126,19 @@ Watch this short video. Is your butterfly getting stuck like this?
 --- /task ---
 
 --- task ---
-To fix the stuck butterfly, add an `if on edge bounce`{:class="block3motion"} block. This block makes a sprite flip its direction if it bumps into the edge of the screen. 
+To solve the problem of the stuck butterfly, add an `if on edge, bounce`{:class="block3motion"} block. This block makes a sprite change its direction if it bumps into the edge of the screen.
 
 ```blocks3
 when flag clicked
 forever
 move (10) steps
-+if on edge bounce
++if on edge, bounce
 end
 ```
 --- /task ---
 
 --- task ---
-Click on the green flag to restart your project. The butterfly should now fly across the Stage, bouncing when it reaches the left and right edges. 
+Click on the green flag to restart your project. The butterfly should now fly across the Stage, and it should bounce when it reaches the left and right edges. 
 --- /task ---
 
 Did you spot an issue? The butterfly goes upside down when it flies to the left. This is because sprites point in the direction in which they are moving. 
@@ -152,10 +152,10 @@ To fix this, add a `set rotation style [left-right]`{:class="block3motion"} bloc
 
 ```blocks3
 when flag clicked
-+set rotation style [left right v]
++set rotation style [left-right v]
 forever
-move (2) steps
-if on edge bounce
+move (10) steps
+if on edge, bounce
 end
 ```
 
@@ -173,9 +173,9 @@ To slow the butterfly down, change the number of steps that it moves at a time f
 ```blocks3
 when flag clicked
 forever
-set rotation style [left right v]
+set rotation style [left-right v]
 +move (2) steps
-if on edge bounce
+if on edge, bounce
 end
 ```
 --- /task ---
