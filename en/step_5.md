@@ -34,32 +34,32 @@ end
 --- /task ---
 
 --- task ---
-Change the direction to `90` (90 degrees) so that the butterfly starts off pointing to the right:
+Change the direction to `90` (degrees) so that the butterfly points to the right at the start of the program:
 
 ```blocks3
 when flag clicked
 go to x: (0) y: (0)
-set rotation style [left right v]
+set rotation style [left-right v]
 +point in direction (90)
 forever
 move (2) steps
-if on edge bounce
+if on edge, bounce
 end
 ```
 --- /task ---
 
 --- task ---
-Now, add a `turn right`{:class="block3motion"} (clockwise) block and change the number of moves to `2` so that the butterfly changes direction by a small amount each time it moves:
+Now, add a `turn right`{:class="block3motion"} (clockwise) block and change the number of degrees to `2` so that the butterfly changes direction by a small amount each time it moves:
 
 ```blocks3
 when flag clicked
 go to x: (0) y: (0)
-set rotation style [left right v]
+set rotation style [left-right v]
 point in direction (90)
 forever
 move (2) steps
 +turn right (2) degrees
-if on edge bounce
+if on edge, bounce
 end
 ```
 --- /task ---
