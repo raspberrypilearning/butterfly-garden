@@ -1,5 +1,5 @@
 ## Add a small butterfly
-Now, you will add a small butterfly that flies at a different angle and flies 'behind' the other butterflies.
+Now, you will add a small butterfly that flies at a different angle and flies behind the other butterflies.
 
 --- task ---
 Duplicate the **Butterfly 2** sprite to create a **Butterfly 3** sprite. 
@@ -17,7 +17,7 @@ Make the **Butterfly 3** sprite fly in a different direction. What happens if yo
 
 ![Butterfly 3](images/butterfly-3-example.png)
 
-**Tip:** Each sprite has its own costumes and code. Make sure that you select the correct sprite below the Stage before you click on their costumes or Code area. 
+**Tip:** Each sprite has its own costumes and code. Make sure that you select the correct sprite in the Sprite list below the Stage before you click on the **Costumes** or **Code** tabs. 
 
 --- /task ---
 
@@ -31,16 +31,16 @@ All the butterflies are the same size. The scene will look more realistic if the
 
 --- task ---
 
-Make the **Butterfly 3** sprite half the size (50%) of the other butterflies. Go to `Looks`{:class="block3looks"} and `set size to`{:class="block3looks"} to `50``%`{:class="block3looks"}:
+Make the **Butterfly 3** sprite half the size (50%) of the other butterflies. From the `Looks`{:class="block3looks"} blocks menu, add a `set size to`{:class="block3looks"} block and set the size to `50`:
 
 ```blocks3
 when flag clicked
-set rotation style [left right v]
+set rotation style [left-right v]
 point in direction (-45)
 +set size to (50)%
 forever
-move (10) steps
-if on edge bounce
+move (2) steps
+if on edge, bounce
 end
 ```
 --- /task ---
@@ -53,13 +53,13 @@ Go to the `Looks`{:class="block3looks"} blocks menu again. Add a `go to front la
 
 ```blocks3
 when flag clicked
-set rotation style [left right v]
+set rotation style [left-right v]
 point in direction (-45)
 set size to (50)%
 +go to [back v] layer
 forever
-move (10) steps
-if on edge bounce
+move (2) steps
+if on edge, bounce
 end
 ```
 --- /task ---
