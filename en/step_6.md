@@ -10,7 +10,7 @@ Get creative and decorate your own butterfly costume with the paint tool.
 
 --- collapse ---
 ---
-How can I colour the circles on the wings? 
+title: How can I colour the circles on the wings? 
 ---
 
 The circles are outlines of a circle shape, so you can't use the **Fill** tool. 
