@@ -65,7 +65,7 @@ Click on the green parts of the butterfly's wing to fill them with your new colo
 
 --- /task ---
 
-The colour of the **Butterfly 2** sprite will also change on the Stage and below the Stage. 
+The colour of the **Butterfly 2** sprite will also change on the Stage and in the Sprite list below the Stage. 
 
 ![Butterfly 2 Costumes tab](images/butterfly-colour-changed.png)
 
