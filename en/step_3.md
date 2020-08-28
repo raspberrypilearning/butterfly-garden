@@ -77,7 +77,7 @@ The **Butterfly 2** sprite also has its own code. Make sure that the **Butterfly
 The **Butterfly 2** sprite has the same code as the **Butterfly 1** sprite. You will change it so that the **Butterfly 2** sprite flies in a different pattern.
 
 --- task ---
-Add a `point in direction`{:class="block3motion"} block after the `set rotation style [left-right]`{:class="block3motion"} block. A gap will open up and the block will fit into place:
+Add a `point in direction`{:class="block3motion"} block after the `set rotation style left-right`{:class="block3motion"} block. A gap will open up and the block will fit into place:
 
 ```blocks3
 when flag clicked
