@@ -28,7 +28,7 @@ set rotation style [left right v]
 point in direction (45)
 forever
 move (2) steps
-if on edge bounce
+if on edge, bounce
 end
 ```
 --- /task ---
