@@ -126,7 +126,7 @@ Watch this short video. Is your butterfly getting stuck like this?
 --- /task ---
 
 --- task ---
-To solve the problem of the stuck butterfly, add an `if on edge, bounce`{:class="block3motion"} block. This block makes a sprite change its direction if it bumps into the edge of the screen.
+To solve the problem of the stuck butterfly, add an `if on edge, bounce`{:class="block3motion"} block. This block makes a sprite change its direction if it bumps into the edge of the Stage.
 
 ```blocks3
 when flag clicked
