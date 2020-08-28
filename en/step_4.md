@@ -7,12 +7,6 @@ Duplicate the **Butterfly 2** sprite to create a **Butterfly 3** sprite.
 --- /task ---
 
 --- task ---
-
-Change the colour of the **Butterfly 3** sprite so that it looks different to the others. 
-
---- /task ---
-
---- task ---
 Make the **Butterfly 3** sprite fly in a different direction. What happens if you choose a negative number?
 
 ![Butterfly 3](images/butterfly-3-example.png)
@@ -23,7 +17,7 @@ Make the **Butterfly 3** sprite fly in a different direction. What happens if yo
 
 --- task ---
 
-Change the colour of the **Butterfly 3** sprite's wings. To do this, edit its costume with the **Fill** tool.
+Change the colour of the **Butterfly 3** sprite's wings so that it looks different to the others. To do this, edit its costume with the **Fill** tool.
 
 --- /task ---
 
