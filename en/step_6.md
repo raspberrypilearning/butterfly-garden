@@ -6,7 +6,7 @@ Duplicate the **Butterfly 4** sprite (the butterfly that flies around in circles
 
 Change the size of some of the butterflies so that some of them appear far away. 
 
-Get creative and decorate your own butterfly costume with the paint tool.
+Get creative and decorate your own butterfly costume with the tools in the Paint editor.
 
 --- collapse ---
 ---
