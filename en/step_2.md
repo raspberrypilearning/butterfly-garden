@@ -146,7 +146,7 @@ Did you spot an issue? The butterfly goes upside down when it flies to the left.
 ![Butterfly upside down when flying left](images/butterfly-upside-down.png){:width="400px"}
 
 --- task ---
-To fix this, add a `set rotation style [left-right]`{:class="block3motion"} block under the `when green flag clicked`{:class="block3events"} block.
+To fix this, add a `set rotation style left-right`{:class="block3motion"} block under the `when green flag clicked`{:class="block3events"} block.
 
 ![Set butterfly left-right rotation style](images/butterfly-left-right.png){:width="400px"}
 
