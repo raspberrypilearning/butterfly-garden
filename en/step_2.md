@@ -1,4 +1,4 @@
-## Add a butterfly
+## Add a flying butterfly
 First, you will add a butterfly that flies left and right across the Stage. 
 
 --- task ---
