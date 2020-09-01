@@ -24,11 +24,11 @@ The centre of the Stage is at coordinates `x:`{:class="block3motion"} `0` `y:`{:
 ```blocks3
 when flag clicked
 +go to x: (0) y: (0)
-set rotation style [left right v]
+set rotation style [left-right v]
 point in direction (45)
 forever
 move (2) steps
-if on edge bounce
+if on edge, bounce
 end
 ```
 --- /task ---

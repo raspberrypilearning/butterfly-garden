@@ -6,7 +6,7 @@ Duplicate the **Butterfly 4** sprite (the butterfly that flies around in circles
 
 Change the size of some of the butterflies so that some of them appear far away. 
 
-Get creative and decorate your own butterfly costume with the paint tool.
+Get creative and decorate your own butterfly costume with the tools in the Paint editor.
 
 --- collapse ---
 ---
@@ -16,11 +16,11 @@ title: How can I colour the circles on the wings?
 The circles are outlines of a circle shape, so you can't use the **Fill** tool. 
 
 + First, click on a wing. 
-+ Then, click on **Ungroup** to separate the objects
++ Then, click on **Ungroup** to separate the objects.
 
 ![Ungroup the wing](images/butterfly-circle-ungroup.png)
 
-+ Click on the circle that you separated on the wing
++ Click on the circle that you separated on the wing.
 + Now, you can change the **Outline** colour for the circle. 
 
 ![Colour the circle](images/butterfly-circle-colour.png)

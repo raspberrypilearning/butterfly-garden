@@ -1,4 +1,4 @@
-## Add a butterfly
+## Add a flying butterfly
 First, you will add a butterfly that flies left and right across the Stage. 
 
 --- task ---
@@ -97,7 +97,7 @@ Code blocks inside a `forever`{:class="block3control"} block will run over and o
 --- /task ---
 
 --- task ---
-Now, add a `move 10 steps`{:class="block3motion"} block inside the `forever`{:class="block3events"} block.
+Now, add a `move 10 steps`{:class="block3motion"} block inside the `forever`{:class="block3control"} block.
 
 ```blocks3
 when flag clicked
@@ -126,7 +126,7 @@ Watch this short video. Is your butterfly getting stuck like this?
 --- /task ---
 
 --- task ---
-To solve the problem of the stuck butterfly, add an `if on edge, bounce`{:class="block3motion"} block. This block makes a sprite change its direction if it bumps into the edge of the screen.
+To solve the problem of the stuck butterfly, add an `if on edge, bounce`{:class="block3motion"} block. This block makes a sprite change its direction if it bumps into the edge of the Stage.
 
 ```blocks3
 when flag clicked
@@ -146,7 +146,7 @@ Did you spot an issue? The butterfly goes upside down when it flies to the left.
 ![Butterfly upside down when flying left](images/butterfly-upside-down.png){:width="400px"}
 
 --- task ---
-To fix this, add a `set rotation style [left-right]`{:class="block3motion"} block under the `when green flag clicked`{:class="block3events"} block.
+To fix this, add a `set rotation style left-right`{:class="block3motion"} block under the `when green flag clicked`{:class="block3events"} block.
 
 ![Set butterfly left-right rotation style](images/butterfly-left-right.png){:width="400px"}
 
@@ -172,8 +172,8 @@ To slow the butterfly down, change the number of steps that it moves at a time f
 
 ```blocks3
 when flag clicked
-forever
 set rotation style [left-right v]
+forever
 +move (2) steps
 if on edge, bounce
 end
