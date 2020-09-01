@@ -2,9 +2,9 @@ title: Butterfly garden
 hero_image: images/butterfly-banner.png
 description: Sit back, relax, and watch the patterns the butterflies make as they fly
 version: 4
-listed: false
-copyedit: false
-last_tested: "2020-06-03"
+listed: true
+copyedit: true
+last_tested: "2020-09-01"
 steps:
   - title: Introduction
   - title: Add a flying butterfly
