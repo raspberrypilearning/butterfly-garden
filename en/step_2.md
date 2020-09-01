@@ -172,8 +172,8 @@ To slow the butterfly down, change the number of steps that it moves at a time f
 
 ```blocks3
 when flag clicked
-forever
 set rotation style [left-right v]
+forever
 +move (2) steps
 if on edge, bounce
 end
