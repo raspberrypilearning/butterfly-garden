@@ -1,7 +1,7 @@
 ## What next?
 
 In this project, you have:
-+ Used `motion`{:class="block3motion"} blocks to create animated butterfly sprites
++ Used `Motion`{:class="block3motion"} blocks to create animated butterfly sprites
 + Used a `forever`{:class="block3control"} loop to make the butterflies fly repeatedly in the same pattern
 + Used the Paint editor to create your own unique butterfly sprites
 
