@@ -11,6 +11,8 @@ Open a new Scratch project.
 
 --- /task ---
 
+--- task ---
+
 --- no-print ---
 
 Watch this short video, which shows what to do next.
@@ -18,6 +20,8 @@ Watch this short video, which shows what to do next.
 ![screenshot](images/butterfly-setup-step2.gif) 
 
 --- /no-print ---
+
+--- /task ---
 
 Follow the instructions for each task below.
 
@@ -49,9 +53,13 @@ Now, add your project name and save your project so far. Go to **File** in the m
 
 --- no-print ---
 
+--- task ---
+
 Watch this short video, which shows what to do next.
 
 ![screenshot](images/butterfly-move-step2.gif)
+
+--- /task ---
 
 --- /no-print ---
 
