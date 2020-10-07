@@ -35,7 +35,8 @@ title: What you will need
 title: What you will learn
 ---
 
-+ How to use costumes
++ How to use `motion`{:class="block3motion"} blocks to create animation
++ How to use costumes to customise sprites
 + How to use the `forever`{:class="block3control"} block
 
 --- /collapse ---

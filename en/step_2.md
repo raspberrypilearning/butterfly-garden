@@ -5,11 +5,13 @@ First, you will add a butterfly that flies left and right across the Stage.
 
 Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor/){:target=”_blank”}.
+**Online:** open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor){:target="_blank"}.
 
-**Offline:** open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target=”_blank”}.
+**Offline:** open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
 
 --- /task ---
+
+--- task ---
 
 --- no-print ---
 
@@ -18,6 +20,8 @@ Watch this short video, which shows what to do next.
 ![screenshot](images/butterfly-setup-step2.gif) 
 
 --- /no-print ---
+
+--- /task ---
 
 Follow the instructions for each task below.
 
@@ -49,9 +53,13 @@ Now, add your project name and save your project so far. Go to **File** in the m
 
 --- no-print ---
 
+--- task ---
+
 Watch this short video, which shows what to do next.
 
 ![screenshot](images/butterfly-move-step2.gif)
+
+--- /task ---
 
 --- /no-print ---
 
