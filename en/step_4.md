@@ -1,4 +1,4 @@
-## Add a small butterfly
+## Make a small butterfly
 Now, you will add a small butterfly that flies at a different angle and flies behind the other butterflies.
 
 --- task ---
