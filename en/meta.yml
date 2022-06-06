@@ -9,11 +9,13 @@ copyedit: true
 last_tested: '2020-09-01'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Add a flying butterfly
 - title: Fly at an angle
+  completion:
+  - engaged
 - title: Make a small butterfly
 - title: Round and round
-  completion: internal
+  completion:
+  - internal
 - title: Add more
 - title: What next?
