@@ -9,7 +9,7 @@ Duplicate the **Butterfly 2** sprite to create a **Butterfly 3** sprite.
 --- task ---
 Make the **Butterfly 3** sprite fly in a different direction. What happens if you choose a negative number?
 
-![Butterfly 3](images/butterfly-3-example.png)
+![The "Butterfly 3" code with the "point in direction" block selected. An angle of -45 is being used.](images/butterfly-3-example.png)
 
 **Tip:** Each sprite has its own costumes and code. Make sure that you select the correct sprite in the Sprite list below the Stage before you click on the **Costumes** or **Code** tabs. 
 
