@@ -5,14 +5,14 @@ In computing, a clear set of instructions is called an **algorithm**. The next b
 --- task ---
 Duplicate the **Butterfly 2** sprite to create a new sprite. This will automatically be called **Butterfly 4**.
 
-![Butterfly 4 sprite](images/butterfly-4.png)
+![Butterfly 4 sprite selected with it's menu showing three options: duplicate, export and delete](images/butterfly-4.png)
 
 --- /task ---
 
 --- task ---
 Change the colour of the **Butterfly 4** sprite so that you can identify it easily. 
 
-![Butterfly 4 sprite](images/butterfly-4-colour.png)
+![Butterfly 4 sprite showing in the costumes editor with new colour options showing](images/butterfly-4-colour.png)
 
 --- /task ---
 
@@ -71,7 +71,7 @@ Click on the green flag and watch your butterfly fly in a circle.
 
 --- no-print ---
 
-![Butterfly 4 sprite circular path](images/butterfly-roundandround.gif)
+![Animation showing the Butterfly 4 sprite moving on its circular path](images/butterfly-roundandround.gif)
 
 --- /no-print ---
 
